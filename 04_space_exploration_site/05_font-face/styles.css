@@ -1,0 +1,8 @@
+@font-face {
+    src: url("../fonts/Corleone.ttf");
+    font-family: Corleone;
+}
+
+h1 {
+   color:rgba(169, 70, 255, 0.769); 
+}
